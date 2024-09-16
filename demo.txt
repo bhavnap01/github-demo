@@ -6,6 +6,9 @@ end of the file
 Welcome to Tce
 Nice being in TCE
 welcome
+Hello
+
+TCE Training
 
 
 
