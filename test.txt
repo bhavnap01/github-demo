@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Everyone
+=======
+hii this is my test file
+>>>>>>> 5203a7671f06a56d0ac548cd47bdf466425ca983
