@@ -1,7 +1,11 @@
 Welcome to new feature branch
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Welocme Tce-Sanjana kathane
+=======
+Welcome
+>>>>>>> c9798064998f65177d49137205149ea295a3a1cc
 =======
 Welcome
 >>>>>>> c9798064998f65177d49137205149ea295a3a1cc
